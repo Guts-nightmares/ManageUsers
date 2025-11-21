@@ -1,0 +1,17 @@
+# === Node / React ===
+node_modules/
+build/
+dist/
+*.log
+
+# === Python / Flask ===
+venv/
+__pycache__/
+*.pyc
+instance/
+.env
+
+# === IDE ===
+.idea/
+.vscode/
+.DS_Store
